@@ -21,6 +21,5 @@ class Solution(object):
                 goodIndex += 1
                 dupNum = 2
                 continue
-
   
         return goodIndex + 1
